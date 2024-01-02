@@ -39,7 +39,7 @@ print("Amount:",regr.predict([[3300,1300]]))
 ```
 ## Output:
 
-### Insert your output
+
 
 ![image](https://github.com/Bosevennila/Multivariate-Linear-Regression/assets/144870486/aaa87578-3f71-4a64-bcdb-5c4de91c477d)
 
